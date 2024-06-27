@@ -1,0 +1,33 @@
+[
+    {
+        "id":123,
+        "first": "Juan",
+        "last": "Perez",
+        "handle": "hola@gmail.com",
+        "activo":true
+    },
+    {
+        "id":12448,
+        "first": "carlos",
+        "last": "pelaez",
+        "handle": "carlitoax@gmail.com"
+    },
+    {
+        "id":45687,
+        "first": "andres",
+        "last": "paez",
+        "handle": "paez@gmail.com"
+    },
+    {
+        "id":123,
+        "first": "jualian",
+        "last": "alvarez",
+        "handle": "che@gmail.com"
+    },
+    {
+        "id":123,
+        "first": "jualian",
+        "last": "alvarez",
+        "handle": "che@gmail.com"
+    }
+]
